@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+__HTML5__
+__CSS3__
+__Javascript__
+__JAMstack__
