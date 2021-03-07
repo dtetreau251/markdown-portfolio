@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+* Web Development :heart:
+* Guitar
+* Children 
+* Food and Drink
+* Television and Movies
+* Travel
